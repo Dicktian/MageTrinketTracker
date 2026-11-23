@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Mage Trinket Tracker
+## Notes: Compact mage trinket tracking for PI
+## Author: Comunaxo
+## Version: 2.5.0
+## SavedVariables: MTTDB
+MageTrinketTracker.lua
