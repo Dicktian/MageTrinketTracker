@@ -38,10 +38,6 @@ Desarrollado en **Lua** mediante la API de World of Warcraft 3.3.5a. Utiliza ins
 | `/mtt scan` | Solicitar una nueva inspección |
 | `/mtt reset` | Reiniciar los datos de seguimiento |
 
-## Autor
-
-**Comunaxo** · [GitHub: Dicktian](https://github.com/Dicktian)
-
 ---
 
 *Proyecto independiente, no afiliado a Blizzard Entertainment. World of Warcraft es una marca de Blizzard Entertainment.*
